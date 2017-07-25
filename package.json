@@ -1,0 +1,23 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "liri.js",
+  "dependencies": {
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfox68/liri-node-app.git"
+  },
+  "author": "Don Fox",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfox68/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/dfox68/liri-node-app#readme"
+}
